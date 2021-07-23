@@ -1,0 +1,32 @@
+body {
+   background: rgb(221, 234, 236);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+
+}
+.container {
+    width: 1000;
+    border: 5px double blue;
+    margin: 0px auto;
+    padding: 30px;
+    background: white;
+}
+header {
+    position: relative;
+    height: 290px;
+    width: 100%;
+    border: 2px solid blue;
+}
+.avatar{
+    position: absolute;
+    width: 224px;
+    height: 100%;
+}
+.fio{
+    position: absolute;
+    left: 224px;
+    height: 100%;
+    width: 900px;
+    text-align: center;
+    justify-items: center;
+}
