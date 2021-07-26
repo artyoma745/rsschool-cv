@@ -46,5 +46,3 @@ Sample code from lesson of interactive course <https://ru.code-basics.com/langua
  * EPAM training portal[2] - Basic user A1
 [1]:https://iloveenglish.ru/tests/test_your_english_level
 [2]:https://training.by/#!/TrainingList?lang=ru&City=38,37,40,41,42,39,50
-
-
